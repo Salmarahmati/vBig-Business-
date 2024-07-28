@@ -1,0 +1,114 @@
+header {
+    background-color: rgb(146, 144, 144);
+    height: 130px;
+
+}
+
+.logo {
+    font-size: 40px;
+    color: white;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.design {
+    color: white;
+    margin-left: 60%;
+}
+
+nav {
+    background-color: rgb(23, 224, 224);
+    height: 50px;
+}
+
+nav a {
+    margin-left: 5%;
+    text-decoration: none;
+    font-size: 21px;
+    color: white;
+    padding: 10px;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+.mainSec {
+    display: inline-block;
+    width: 70%;
+}
+
+.welcome {
+    font-size: 37px;
+}
+
+.div1 {
+    display: inline-block;
+    width: 450px;
+}
+
+.smimg {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 2%;
+}
+
+.sec2 .div1 .smdivs p {
+    display: inline-block;
+    width: 200px;
+}
+
+.div2 {
+    display: inline-block;
+    width: 450px;
+
+}
+
+.sec2 .div2 a {
+    color: rgb(7, 211, 211);
+}
+
+.asidsec {
+    display: inline-block;
+    width: 27%;
+    margin-left: 2%;
+}
+
+.asidsec a {
+    color: rgb(7, 211, 211);
+    line-height: 29px;
+}
+
+.asidsec button {
+    background-color: rgb(63, 62, 62);
+    color: white
+}
+footer{
+    background-color:rgb(146, 144, 144);
+   width: 95%;
+   margin: auto;
+}
+.foot{
+    width: 93%;
+    margin: auto;
+    height: 310px;
+}
+.foot1{
+    display: inline-block;
+    width: 59%;
+}
+.foot2{
+    display: inline-block;
+    width: 20%;
+    margin-left: 10%;
+}
+.foot .foot2 a{
+    line-height: 35px;
+    color: white;
+}
+.ending{
+    margin-left:670px;
+    margin-bottom: 4%;
+}
